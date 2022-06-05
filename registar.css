@@ -1,0 +1,7 @@
+form{
+  background-color: #FFCE4E;
+  padding: 10px;
+}
+input,textarea{
+  transform: skewX(-10deg);
+}
